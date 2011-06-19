@@ -1,0 +1,8 @@
+This app aims to resolve some of the issues with the data produced by Garmin 310xts when the data is analysised 
+in a program like Trainingpeaks WKO. There are a number of issues with the data but this application focuses on 
+the two most promenient ones.
+
+1) The inclusion of stopped time in elapsed time
+2) The absence of data due to SMART recording
+
+David -- tunney@gmail.com
